@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StudentMgtSystem - Backup": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
